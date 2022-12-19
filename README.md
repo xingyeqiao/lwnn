@@ -1,5 +1,5 @@
 # lwnn
-Code for Locally Weighted Nearest Neighbor Classifier
+Code for **Locally Weighted Nearest Neighbor Classifier**
 
 Code associated with the paper:
 
